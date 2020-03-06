@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1583516606 source:e:\projekte\bankbuchungssystem\main.cpp
+	<stdio.h>
+	"CDate.h"
+
+1583519331 e:\projekte\bankbuchungssystem\cdate.h
+	<string>
+
+1583519325 source:e:\projekte\bankbuchungssystem\cdate.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	<time.h>
+	<stdio.h>
+	"CDate.h"
+
